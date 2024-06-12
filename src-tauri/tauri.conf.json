@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "NEW_JIRA",
+    "productName": "NEW-JIRA",
     "version": "1.0.0"
   },
   "tauri": {

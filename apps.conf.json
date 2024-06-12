@@ -73,9 +73,9 @@
       "url": "https://weread.qq.com/"
     },
     {
-      "name": "NEW_JIRA",
-      "title": "NEW_JIRA",
-      "name_zh": "NEW_JIRA",
+      "name": "NEW-JIRA",
+      "title": "NEW-JIRA",
+      "name_zh": "NEW-JIRA",
       "url": "http://192.168.1.246:8084/issues/?filter=10033"
     }
   ]
