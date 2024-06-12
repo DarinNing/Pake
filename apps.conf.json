@@ -77,6 +77,12 @@
       "title": "NEW-JIRA",
       "name_zh": "NEW-JIRA",
       "url": "http://192.168.1.246:8084/issues/?filter=10033"
+    },
+    {
+      "name": "translate",
+      "title": "Translate",
+      "name_zh": "翻译",
+      "url": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate"
     }
   ]
 }
