@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "NEW_JIRA",
+    "productName": "WeRead",
     "version": "1.0.0"
   },
   "tauri": {
@@ -8,7 +8,7 @@
       "csp": null,
       "dangerousRemoteDomainIpcAccess": [
         {
-          "domain": "http://192.168.1.246:8084/issues/?filter=10033",
+          "domain": "weread.qq.com",
           "windows": ["pake"],
           "enableTauriAPI": true
         }
