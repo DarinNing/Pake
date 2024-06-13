@@ -24,8 +24,8 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
 // Just for cli development
 export const DEFAULT_DEV_PAKE_OPTIONS: PakeCliOptions & { url: string } = {
   ...DEFAULT_PAKE_OPTIONS,
-  url: 'https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate',
-  name: 'translate',
-  safeDomain: ['google.com'],
+  url: 'http://192.168.1.246:8084/issues/?filter=10033',
+  name: 'NEW-JIRA',
+  safeDomain: ['weread.qq.com'],
   hideTitleBar: true,
 };

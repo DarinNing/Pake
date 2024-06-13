@@ -1,7 +1,7 @@
 {
   "windows": [
     {
-      "url": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
+      "url": "http://192.168.1.246:8084/issues/?filter=10033",
       "url_type": "web",
       "hide_title_bar": true,
       "fullscreen": false,
