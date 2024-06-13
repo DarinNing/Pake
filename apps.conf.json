@@ -80,7 +80,7 @@
     },
     {
       "name": "translate",
-      "title": "Translate",
+      "title": "translate",
       "name_zh": "翻译",
       "url": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate"
     }
