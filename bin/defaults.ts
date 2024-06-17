@@ -11,7 +11,7 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
   disabledWebShortcuts: false,
   activationShortcut: '',
   userAgent: '',
-  showSystemTray: true,
+  showSystemTray: false,
   multiArch: false,
   targets: 'deb',
   useLocalFile: false,
@@ -24,8 +24,8 @@ export const DEFAULT_PAKE_OPTIONS: PakeCliOptions = {
 // Just for cli development
 export const DEFAULT_DEV_PAKE_OPTIONS: PakeCliOptions & { url: string } = {
   ...DEFAULT_PAKE_OPTIONS,
-  url: 'https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate',
-  name: 'translate',
+  url: 'https://weread.qq.com',
+  name: 'WeRead',
   safeDomain: ['weread.qq.com'],
   hideTitleBar: true,
 };

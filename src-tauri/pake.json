@@ -1,7 +1,7 @@
 {
   "windows": [
     {
-      "url": "https://translate.google.com/?hl=zh-CN&tab=TT&sl=en&tl=zh-CN&op=translate",
+      "url": "https://weread.qq.com",
       "url_type": "web",
       "hide_title_bar": true,
       "fullscreen": false,

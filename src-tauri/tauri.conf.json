@@ -1,6 +1,6 @@
 {
   "package": {
-    "productName": "translate",
+    "productName": "WeRead",
     "version": "1.0.0"
   },
   "tauri": {
@@ -18,7 +18,7 @@
       "active": false
     },
     "systemTray": {
-      "iconPath": "png/translate_512.png",
+      "iconPath": "png/icon_512.png",
       "iconAsTemplate": false
     },
     "allowlist": {
