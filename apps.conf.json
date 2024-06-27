@@ -79,6 +79,12 @@
       "url": "http://192.168.1.246:8084/issues/?filter=10033"
     },
     {
+      "name": "KB",
+      "title": "KB",
+      "name_zh": "字节转换",
+      "url": "https://www.ryanzoe.top/%E5%9C%A8%E7%BA%BF%E6%96%87%E4%BB%B6%E5%A4%A7%E5%B0%8Fbitbyteskbmbgbtb%E8%BD%AC%E6%8D%A2%E6%8D%A2%E7%AE%97/"
+    },
+    {
       "name": "translate",
       "title": "GoogleTranslate",
       "name_zh": "谷歌翻译",
