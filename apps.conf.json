@@ -89,6 +89,12 @@
       "title": "GoogleTranslate",
       "name_zh": "谷歌翻译",
       "url": "https://translate.google.com/"
+    },
+    {
+      "name": "cs.android",
+      "title": "cs.android",
+      "name_zh": "cs.android",
+      "url": "https://cs.android.com/android/platform/superproject"
     }
   ]
 }
