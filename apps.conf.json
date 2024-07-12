@@ -91,10 +91,10 @@
       "url": "https://translate.google.com/"
     },
     {
-      "name": "cs.android",
-      "title": "cs.android",
-      "name_zh": "cs.android",
-      "url": "https://cs.android.com/android/platform/superproject"
+      "name": "android",
+      "title": "android",
+      "name_zh": "android",
+      "url": "https://cs.android.com/android"
     }
   ]
 }
